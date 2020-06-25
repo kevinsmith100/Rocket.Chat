@@ -109,7 +109,7 @@
     "aws-sdk": "^2.125.0",
     "babel-runtime": "^6.26.0",
     "bcrypt": "^1.0.3",
-    "bunyan": "^1.8.12",
+    "bunyan": "^1.8.13",
     "codemirror": "^5.30.0",
     "emailreplyparser": "0.0.5",
     "file-type": "^6.2.0",
